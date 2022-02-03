@@ -1,0 +1,3 @@
+module PrimerLab {
+	requires junit;
+}
